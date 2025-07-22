@@ -141,7 +141,7 @@ export default function AkhlakPage() {
                 <p>Lickona, T. (1991). <em>Educating for Character: How Our Schools Can Teach Respect and Responsibility</em>.</p>
               </div>
               <div className="border-l-4 border-indigo-400 pl-4">
-                <p>Supriyadi, A. (2020). "Pendidikan Karakter Berbasis Akhlak Mulia." <em>Jurnal Pendidikan Moral</em>, 7(1), 20–34.</p>
+                <p>Supriyadi, A. (2020). &quot;Pendidikan Karakter Berbasis Akhlak Mulia.&quot; <em>Jurnal Pendidikan Moral</em>, 7(1), 20–34.</p>
               </div>
               <div className="border-l-4 border-purple-400 pl-4">
                 <p>UNESCO. (2023). <em>Education for Sustainable Development</em>.</p>
